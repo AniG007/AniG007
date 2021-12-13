@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anirudh Ganesh, I consider myself as a developer, designer and researcher (a newbie unicorn!)
 - :video_game: I’m interested in designing & developing games for positive behaviour change
-- :mortar_board: Currently, I'm a Research Assistant at the Persuasive Computing Lab (https://pcl.cs.dal.ca/) doing my Master's in Computer Science
+- :mortar_board: Currently, I'm a Research Assistant at the Persuasive Computing Lab (https://pcl.cs.dal.ca/) doing my Master's in Computer Science @ Dalhousie University
 - 📫 You can find some of my works here: https://anirudh-ganesh.web.app/
 - :question: Get in touch with me via LinkedIn - https://www.linkedin.com/in/anirudh-ganesh07/
 <!---
