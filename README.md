@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anirudh Ganesh, Welcome to my Github Profile! :)
+- 👋 Hi, I’m Anirudh Ganesh, Welcome to my Github Profile! :smiley:
 - :video_game: I’m interested in designing & developing games for positive behaviour change
 - :mortar_board: Currently, I'm a Research Assistant at the <a href="https://pcl.cs.dal.ca/"> Persuasive Computing Lab </a> pursuing a Master's in Computer Science @ <a href="https://www.dal.ca/">Dalhousie University</a>
 - 📫 You can read more about my works here: <a href="https://anirudh-ganesh.web.app/">Portfolio</a>
